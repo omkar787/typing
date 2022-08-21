@@ -1,3 +1,7 @@
+# Typing
+
+Practice typing
+
 # Setting up
 
 ```bash
